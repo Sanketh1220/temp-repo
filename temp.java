@@ -4,5 +4,6 @@ public class temp {
 		
 		System.out.println("Enter your name");
 		System.out.println("Enter your phone number");
+		System.out.println("Enter your city name");
 	}
 }
